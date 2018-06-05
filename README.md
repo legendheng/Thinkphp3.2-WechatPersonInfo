@@ -1,4 +1,4 @@
-# Thinkphp3.2-WechatPersonInfo
+# WechatPersonInfo
 thinkphp3.2结合微信公众号的授权获取微信账号信息
 ### 注意：你需要先了解oauth2协议，并且你的公众号支持网页授权服务，改例子是用测试号
 ### 第一步、编写入口方法（首先通过接入微信的oauth2连接协议接口，再进入回调地址redirect_uri）
